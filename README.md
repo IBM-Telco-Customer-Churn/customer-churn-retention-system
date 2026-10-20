@@ -111,4 +111,4 @@ Filterable table of high-risk customers requiring immediate intervention.
 
 🔗 Repository Link
 
-GitHub Repository: customer-churn-retention-system
+GitHub Repository: https://github.com/IBM-Telco-Customer-Churn/customer-churn-retention-system
